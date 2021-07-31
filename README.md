@@ -1,16 +1,27 @@
-### Hi there 👋
-
-<!--
-**patiferreiradev/patiferreiradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Oi, seja bem-vindo! Eu sou a Patrícia Ferreira.
+<div>
+  <a href="https://github.com/patiferreiradev">
+  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=patiferreiradev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <!--
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patiferreiradev&layout=compact&langs_count=7&theme=radical"/>
+  -->
+  </a>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rob-HTML" height="30" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Rob-CSS" height="30" width="90" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Rob-Bootstrap" height="30" width="90" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="Rob-JavaScript" height="30" width="90" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Rob-jQuery" height="30" width="90" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img align="center" alt="Rob-PHP" height="30" width="90" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img align="center" alt="Rob-MySQL" height="30" width="90" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Rob-WP" height="30" width="90" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+</div>
+<div><br>
+  <a href = "https://github.com/patiferreiradev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href = "https://www.linkedin.com/in/patrícia-ferreiradev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "https://api.whatsapp.com/send?phone=5551995256384"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  </a> 
+  
+  ![Snake animation](https://github.com/patiferreiradev/patiferreiradev/blob/output/github-contribution-grid-snake.svg)
+</div>
